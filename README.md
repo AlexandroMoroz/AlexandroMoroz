@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
+<p align="center">
+  <a href="https://www.instagram.com/alex_moroz5/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+</p>
 
   <p align="center">
   <a href="mailto:AlexandroMoroz5@gmail.com">
