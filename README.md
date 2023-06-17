@@ -16,31 +16,22 @@
   <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="MySQL Icon" width="100"/>
 </div>
 
-<h2 id="contactame" align="center">Contáctame!: </h2>
+<h2 id="contactame" align="center">Contáctame: </h2>
   <div align="center">
-  <p>
+  
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-</p>
-<p>
   <a href="https://www.instagram.com/alex_moroz5/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  </p>
-  <p>
   <a href="mailto:AlexandroMoroz5@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-</p>
-<p>
   <a href="https://drive.google.com/file/d/1-iSiC9sx6etbBW-nFz2im7mjOi20W0CE/view?usp=drive_link">
     <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
   </a>
-  </p>
-<p>
   <a href="https://www.linkedin.com/in/ivan-alexandro-moroz-java-developer-trainee/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-</p>
   </div>
