@@ -1,57 +1,42 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
-  <style>
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1 {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-    h2 {
-      font-size: 20px;
-      margin-bottom: 10px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    .contact {
-      margin-top: 20px;
-    }
-    .contact a {
-      display: block;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="presentation">
-      <h1>About Me</h1>
-      <p>Hi, I'm [Your Name]! I am a [your profession or field] with a passion for [your interests or specializations]. I have [number] years of experience working on various projects and love [mention other relevant details or interests].</p>
+<div class="container">
+  <div class="title">
+    <h1>About Me</h1>
+  </div>
+  <div class="content">
+    <div class="subtitle">
+      <h2>Introduction</h2>
     </div>
-    <div class="skills">
-      <h2>Skills</h2>
-      <ul>
-        <li>Java</li>
-        <li>JavaScript</li>
-        <li>CSS</li>
-       
-      </ul>
-    </div>
-    <div class="contact">
-      <h2>Contact Me</h2>
-      <a href="mailto:your@email.com">Email</a>
-      <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>
-      <a href="https://www.yourwebsite.com">Website</a>
-      <a href="https://twitter.com/yourhandle">Twitter</a>
-      <a href="https://github.com/yourusername">GitHub</a>
-      <!-- Add more contact methods as needed -->
+    <div class="description">
+      <p>Hi, I'm Alex! I am a Full stack developer with a passion for Java. I have 1 year of experience working on various projects.</p>
     </div>
   </div>
-  </body>
+  <div class="content">
+    <div class="subtitle">
+      <h2>Skills</h2>
+    </div>
+    <div class="description">
+      <div class="list">
+        <h3>Java</h3>
+        <h3>JavaScript</h3>
+        <h3>CSS</h3>
+        <!-- Add more skills as needed -->
+      </div>
+    </div>
+  </div>
+  <div class="content">
+    <div class="subtitle">
+      <h2>Contact Me</h2>
+    </div>
+    <div class="description">
+      <div class="contact">
+        <h3><a href="mailto:your@email.com">Email</a></h3>
+        <h3><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></h3>
+        <h3><a href="https://www.yourwebsite.com">Website</a></h3>
+        <h3><a href="https://twitter.com/yourhandle">Twitter</a></h3>
+        <h3><a href="https://github.com/yourusername">GitHub</a></h3>
+        <!-- Add more contact methods as needed -->
+      </div>
+    </div>
+  </div>
+</div>
+
