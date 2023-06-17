@@ -4,44 +4,7 @@
   <h3> Full stack developer - Java </h3>
   <p>Llevo estudiando poco más de un año y la verdad que tengo mucha pasión por la programación, cada día estoy aprendiendo herramientas y métodos de trabajo nuevos, en 2020 comencé a interesarme por este mundo y recien en 2021 empecé mi camino por lo que estoy muy contento ya que amo el desafio que conlleva aprender tecnologias nuevas, metodologias, estrategias, etc. Ya tengo varios certificados que avalan mis conocimientos y esfuerzo y pienso seguír juntando conocimientos, mi objetivo es lograr el rango de senior en la programación, estoy muy enfocado y dedicado a convertirme en el mejor desarrollador que sea posible por mucho tempo que eso pueda llevarme</p>
   </div>
-   <div class="skills-container">
-          <div class="skill-item">
-            <i class="fab fa-java" style="color: #007396"></i>
-            <span>Java</span>
-          </div>
-          <div class="skill-item">
-            <i class="fas fa-database" style="color: #4479a1"></i>
-            <span>JPA</span>
-          </div>
-          <div class="skill-item">
-            <i class="fas fa-cogs" style="color: #6db33f"></i>
-            <span>Spring Framework</span>
-          </div>
-          <div class="skill-item">
-            <i class="fab fa-html5" style="color: #e34f26"></i>
-            <span>HTML</span>
-          </div>
-          <div class="skill-item">
-            <i class="fab fa-css3" style="color: #1572b6"></i>
-            <span>CSS</span>
-          </div>
-          <div class="skill-item">
-            <i class="fab fa-js-square" style="color: #f7df1e"></i>
-            <span>JavaScript</span>
-          </div>
-          <div class="skill-item">
-            <i class="fab fa-react" style="color: #61dafb"></i>
-            <span>React</span>
-          </div>
-          <div class="skill-item">
-            <i class="fab fa-bootstrap" style="color: #7952b3"></i>
-            <span>Bootstrap</span>
-          </div>
-          <div class="skill-item">
-            <i class="fas fa-database" style="color: #4479a1"></i>
-            <span>MySQL</span>
-          </div>
-        </div>
+   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" width="20"/> Java
   <div id="contacto" align="center">
   <p align="center">
   <a href="http://alexandromoroz.github.io">
