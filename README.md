@@ -16,7 +16,8 @@
   <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="MySQL Icon" width="100"/>
 </div>
 
-### Quick stats about me
+<h3 align="center">Mis estadisticas:</h3>
+
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexandroMoroz&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Alex top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroMoroz&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
