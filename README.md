@@ -27,10 +27,10 @@
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1RwTpPTYOWXPKposU9pLrXzdaRmadZiXG/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1z39CE4y5i_XRmRiImemL1L2LnTJiSS2d/view?usp=drive_link">
     <img src="https://img.shields.io/badge/-CV Español-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Español Badge">
   </a>
-  <a href="https://drive.google.com/file/d/11wt9j3jNqbHK1hbnb0NRTIBJGwjwfxLJ/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1-YeRUcZupex5lR06nofgY5pvW9xUXU1g/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV English-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV English Badge">
   </a>
   </div>
