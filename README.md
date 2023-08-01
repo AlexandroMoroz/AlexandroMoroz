@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Icon" width="100"/>
   <img src="https://img.icons8.com/officel/100/000000/react.png" alt="React Icon" width="100"/>
   <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="MySQL Icon" width="100"/>
- <span>JUnit 5</span>
+ <p>JUnit 5</p>
   <span>Mockito</span> 
 </div>
 
