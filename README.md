@@ -14,6 +14,8 @@
   <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Icon" width="100"/>
   <img src="https://img.icons8.com/officel/100/000000/react.png" alt="React Icon" width="100"/>
   <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="MySQL Icon" width="100"/>
+  <img src="https://img.icons8.com/color/100/000000/junit.png" alt="JUnit 5 Icon" width="100"/>
+  <img src="https://img.icons8.com/color/100/000000/mockito.png" alt="Mockito Icon" width="100"/>
 </div>
 
 <h3 align="center">Mis estadisticas:</h3>
@@ -27,19 +29,16 @@
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1z39CE4y5i_XRmRiImemL1L2LnTJiSS2d/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1bc89-yHDk980dRFp0A0O0NZL7ebEVdin/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV Español-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Español Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1-YeRUcZupex5lR06nofgY5pvW9xUXU1g/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1EeZBGgqkHz0EtVZgQJQiSijl2yZcc3J3/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV English-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV English Badge">
   </a>
   </div>
 <h2 id="contactame" align="center">Contáctame: </h2>
   <div align="center">
-  
-  <a href="https://www.instagram.com/alex_moroz5/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
+
   <a href="mailto:AlexandroMoroz5@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
