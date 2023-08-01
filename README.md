@@ -14,8 +14,8 @@
   <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Icon" width="100"/>
   <img src="https://img.icons8.com/officel/100/000000/react.png" alt="React Icon" width="100"/>
   <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="MySQL Icon" width="100"/>
-  <img src="https://img.icons8.com/color/100/000000/junit-5.png" alt="JUnit 5 Icon" width="100"/>
-  <img src="https://img.icons8.com/color/100/000000/mockito.png" alt="Mockito Icon" width="100"/>
+  <img  alt="JUnit 5 Icon" width="100"/>
+  <img  alt="Mockito Icon" width="100"/>
 </div>
 
 <h3 align="center">Mis estadisticas:</h3>
