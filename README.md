@@ -30,10 +30,10 @@
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
   <a href="https://drive.google.com/file/d/1M2fHKhsNYJML2RILtPTPbFLfWzTNXOJv/view?usp=sharing">
-    <img src="https://img.shields.io/badge/-CV Español-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
+    <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
   </a>
   <a href="https://drive.google.com/file/d/1JdMH-hxoUJTCY3Irs0b5oLxSIxRuQvcp/view?usp=sharing">
-    <img src="https://img.shields.io/badge/-CV English-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
+    <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
   </a>
   </div>
 <h2 id="contactame" align="center">Contáctame: </h2>
