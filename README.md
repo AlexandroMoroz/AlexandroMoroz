@@ -47,7 +47,7 @@ Me interesa mucho un lugar en donde realmente se pueda debatir ya que soy muy in
 <h2 id="sobreMi" align="center">Más sobre mi: </h2> 
 <div align="center">  
   <a href="http://alexandromoroz.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
   <a href="https://drive.google.com/file/d/1M2fHKhsNYJML2RILtPTPbFLfWzTNXOJv/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
