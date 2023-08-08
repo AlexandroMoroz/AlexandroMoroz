@@ -2,26 +2,35 @@
   <img src="https://media.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.gif" width="200"/>
   <h2>Hola! bienvenido a mi perfil, soy Alex</h2>
   <h3> Full stack developer - Java </h3>
-  <p>sobre mi:
+  <p><h2>sobre mi:</h2>
+    
+Soy un programador apasionado en lo que hago y también una persona gamer.
 
-¡Hola! me llamo Alex y soy un programador apasionado en lo que hago y también una persona gamer.
-Mis tecnologías principales son Java, Spring, HTML, CSS, Javascript y MySQL.</p>
-<p>Como tecnologías secundarias uso React, JUnit 5, Mockito, JPA y estoy aprendiendo sobre Angular y TypeScript.</p>
-<p>Fui líder de un equipo de handball durante más de 7 años y analizaba cada posible jugada, cada posible oportunidad de poder vencer en los partidos y comunicaba todo lo que pensaba.</p>
-<p>Estudié en una escuela técnica durante 8 años y al final terminé el secundario en un bachillerato orientado en arte.
-En mis tiempos libres me encanta jugar videojuegos y desearía hacer Streams, otras veces me pongo a estudiar buscando guías, blogs, videos, cursos, etc. en Internet sobre el mundo IT.</p>
-<p>Hace un tiempo que comencé con la programación, para ser exactos en 2021 empecé a ver algunas cosas y en 2022 culminé mi primer curso el cual fue una introducción a la programación y en 2023 recibí mi primer certificado como "full stack" con la universidad/empresa EGG cooperation.</p>
+Mis tecnologías principales son Java, Spring, HTML, CSS, Javascript y MySQL.
 
-Algunas habilidades blandas:
+Como tecnologías secundarias uso React, JUnit 5, Mockito, JPA y estoy aprendiendo sobre Angular y TypeScript.
+
+Fui líder de un equipo de handball durante más de 7 años y analizaba cada posible jugada, cada posible oportunidad de poder vencer en los partidos y comunicaba todo lo que pensaba.
+Estudié en una escuela técnica durante 8 años y al final terminé el secundario en un bachillerato orientado en arte.
+
+En mis tiempos libres me encanta jugar videojuegos y desearía hacer Streams, otras veces me pongo a estudiar buscando guías, blogs, videos, cursos, etc. en Internet sobre el mundo IT.
+
+Hace un tiempo que comencé con la programación, para ser exactos en 2021 empecé a ver algunas cosas y en 2022 culminé mi primer curso el cual fue una introducción a la programación y en 2023 recibí mi primer certificado como "full stack" con la universidad/empresa EGG cooperation.
+
+<h2>Algunas habilidades blandas:</h2>
 
 Me encanta trabajar en equipo y soy muy competitivo en cualquier ámbito, siempre estoy en búsqueda de nuevos retos que completar y soy muy curioso, por lo que investigo absolutamente todo lo que me genere preguntas o dudas.
+
 Soy muy detallista en lo que hago porque no me gusta que hayan errores o algo quede "mal" lo que significa que también soy perfeccionista, puedo pasar horas buscando en internet hasta encontrar la solución a mi problema.
+
 Siempre incito a que la gente se comunique, me gusta que se hablen las cosas.
 
-Principios y objetivos:
+<h2>Principios y objetivos:</h2>
 
 Siempre busco un ambiente sano en donde se puede ser uno mismo o autentico ya que considero que uno de mis principios más importantes es la comunicación con tu entorno y no acepto algo distinto a ello, me interesa mucho que las personas sean empáticas, lo mismo aplica para las empresas.
+
 Un entorno en donde exista la confianza, es un entorno en donde se puede conseguir absolutamente cualquier sueño.
+
 Me interesa mucho un lugar en donde realmente se pueda debatir ya que soy muy innovador y siempre busco giros de tuerca en donde quizás no hagan falta, buscando nuevas soluciones y prácticas y lo que necesito es un equipo en el que pueda hablar al respecto para tener distintos puntos de vista y llegar a un acuerdo mutuo, odio los entornos en donde tenga miedo a preguntar algo porque la respuesta sea algo similar a "es tu trabajo" o "ya deberías saberlo", etc..</p>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
