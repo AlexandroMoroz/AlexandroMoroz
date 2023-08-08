@@ -33,7 +33,7 @@ Un entorno en donde exista la confianza, es un entorno en donde se puede consegu
 
 Me interesa mucho un lugar en donde realmente se pueda debatir ya que soy muy innovador y siempre busco giros de tuerca en donde quizás no hagan falta, buscando nuevas soluciones y prácticas y lo que necesito es un equipo en el que pueda hablar al respecto para tener distintos puntos de vista y llegar a un acuerdo mutuo, odio los entornos en donde tenga miedo a preguntar algo porque la respuesta sea algo similar a "es tu trabajo" o "ya deberías saberlo", etc.
 
-Llegado este punto, agradezco su tiempo y les invito a ver mi portafolio y CV sin mencionar los proyectos en los que trabajé o estoy trabajando :) </p>
+Llegado este punto, agradezco su tiempo y les invito a ver mi portafolio y CV sin mencionar los proyectos en los que trabajé o estoy trabajando ^-^ </p>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
