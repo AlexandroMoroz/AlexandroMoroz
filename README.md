@@ -6,10 +6,11 @@
 
 ¡Hola! me llamo Alex y soy un programador apasionado en lo que hago y también una persona gamer.
 Mis tecnologías principales son Java, Spring, HTML, CSS, Javascript y MySQL.
-como tecnologías secundarias uso React, JUnit 5, Mockito, JPA y estoy aprendiendo sobre Angular y TypeScript.
+Como tecnologías secundarias uso React, JUnit 5, Mockito, JPA y estoy aprendiendo sobre Angular y TypeScript.
 Fui líder de un equipo de handball durante más de 7 años y analizaba cada posible jugada, cada posible oportunidad de poder vencer en los partidos y comunicaba todo lo que pensaba.
 Estudié en una escuela técnica durante 8 años y al final terminé el secundario en un bachillerato orientado en arte.
 En mis tiempos libres me encanta jugar videojuegos y desearía hacer Streams, otras veces me pongo a estudiar buscando guías, blogs, videos, cursos, etc. en Internet sobre el mundo IT.
+Hace un tiempo que comencé con la programación, para ser exactos en 2021 empecé a ver algunas cosas y en 2022 culminé mi primer curso el cual fue una introducción a la programación y en 2023 recibí mi primer certificado como "full stack" con la universidad/empresa EGG cooperation.
 
 Algunas habilidades blandas:
 
