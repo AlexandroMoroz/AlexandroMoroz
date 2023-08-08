@@ -29,11 +29,11 @@
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1bc89-yHDk980dRFp0A0O0NZL7ebEVdin/view?usp=sharing">
-    <img src="https://img.shields.io/badge/-CV Español-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Español Badge">
+  <a href="https://drive.google.com/file/d/1M2fHKhsNYJML2RILtPTPbFLfWzTNXOJv/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-CV Español-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1EeZBGgqkHz0EtVZgQJQiSijl2yZcc3J3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/-CV English-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV English Badge">
+  <a href="https://drive.google.com/file/d/1JdMH-hxoUJTCY3Irs0b5oLxSIxRuQvcp/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-CV English-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
   </a>
   </div>
 <h2 id="contactame" align="center">Contáctame: </h2>
