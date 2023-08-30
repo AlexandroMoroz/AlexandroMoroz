@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.gif" width="200"/>
-  <h2>Hola! bienvenido a mi perfil, soy Alex</h2>
+  <h2>Hola! bienvenido a mi perfil</h2>
   <h3> Full stack web developer - Java </h3>
   <p><h2>SOBRE MI</h2>
 
@@ -16,14 +16,14 @@ Desarrollador web, Gamer y beatboxer 👾
 Me apasiona la tecnología, la inteligencia artificial, los videojuegos. Soy jugador profesional de League of Legends. No me gusta quedarme quieto, en la actualidad estoy trabajando en un proyecto con un amigo, siempre digo que tenemos que estar en movimiento, y vivir en BETA, como el software, actualizarnos para añadir características y ser siempre la mejor versión
 -obviamente, podemos tener un update que rompa el sistema, pero bueno, en esos casos hay que actualizar rápido para corregirlo- 😅
 
-<h2> <<<<< Motivaciones >>>>> </h2>
+<h2> <<<<< MOTIVACIONES >>>>> </h2>
 
 ¿Qué me motiva hoy?
 
 Lo que me motiva hoy son varios factores, algunos de ellos son: la posibilidad de conseguir la mejor versión de mi, lograr la estabilidad economica que tanto busco y poder devolverle un pedazito de felicidad a mis padres como ellos me la dieron a mi desde que tengo conciencia, comprar mi primera PC *pst... esta definitivamente es mi mayor motivación jejeje*, conseguír mi primer casa, empezar a hacer streams en internet, etc, etc, etc.
 Muchas son mis motivaciones y definitivamente no pienso parar hasta lograrlas todas y en medio de ese camino, definitivamente encontraré más motivaciones así que este camino no tiene fín, y vos, ¿¿qué motivaciones tenes??
 
-<h2><<<<< Más información sobre mi >>>>></h2>
+<h2><<<<< MÁS INFORMACIÖN SOBRE MI >>>>></h2>
 
 ¿Qué fue mi vida antes de hoy?
 
