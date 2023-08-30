@@ -31,7 +31,7 @@ Fui Capitán de un equipo de handball más de 7 años cuando tenía entre 10 y 1
 en 2022 terminé el secundario bachiller y luego me emocioné mucho por la industria tecnológica así que decidí que el primer paso iba a ser el desarrollo web, por lo que me recibí como fuil stack con EGG COOPERATION y a día de hoy sigo auto capacitandome todos los días utilizando internet.
 Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.
 
-Llegado este punto, te invito a conectar conmigo, mirar mi CV y pegarle un vistazo a mi portafolio </p>
+Llegado este punto, te invito a conectar conmigo, mirar mi CV y pegarle un vistazo a mi portafolio! ^-^</p>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
