@@ -1,39 +1,37 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.gif" width="200"/>
   <h2>Hola! bienvenido a mi perfil, soy Alex</h2>
-  <h3> Full stack developer - Java </h3>
-  <p><h2>sobre mi:</h2>
-    
-Soy un programador apasionado en lo que hago y también una persona gamer.
+  <h3> Full stack web developer - Java </h3>
+  <p><h2>SOBRE MI</h2>
 
-Mis tecnologías principales son Java, Spring, HTML, CSS, Javascript y MySQL.
+Hola 🖐, soy Alex!
+Desarrollador web, Gamer y beatboxer 👾
 
-Como tecnologías secundarias uso React, JUnit 5, Mockito, JPA y estoy aprendiendo sobre Angular y TypeScript.
+1... 2... 3... Dale al START!
 
-Fui líder de un equipo de handball durante más de 7 años y analizaba cada posible jugada, cada posible oportunidad de poder vencer en los partidos y comunicaba todo lo que pensaba.
-Estudié en una escuela técnica durante 8 años y al final terminé el secundario en un bachillerato orientado en arte.
+<h2> <<<<< VIVIR A LO BETA >>>>> </h2>
 
-En mis tiempos libres me encanta jugar videojuegos y desearía hacer Streams, otras veces me pongo a estudiar buscando guías, blogs, videos, cursos, etc. en Internet sobre el mundo IT.
+¿Qué me apasiona y a dónde voy?
 
-Hace un tiempo que comencé con la programación, para ser exactos en 2021 empecé a ver algunas cosas y en 2022 culminé mi primer curso el cual fue una introducción a la programación y en 2023 recibí mi primer certificado como "full stack" con la universidad/empresa EGG cooperation.
+Me apasiona la tecnología, la inteligencia artificial, los videojuegos. Soy jugador profesional de League of Legends. No me gusta quedarme quieto, en la actualidad estoy trabajando en un proyecto con un amigo, siempre digo que tenemos que estar en movimiento, y vivir en BETA, como el software, actualizarnos para añadir características y ser siempre la mejor versión
+-obviamente, podemos tener un update que rompa el sistema, pero bueno, en esos casos hay que actualizar rápido para corregirlo- 😅
 
-<h2>Algunas habilidades blandas:</h2>
+<h2> <<<<< Motivaciones >>>>> </h2>
 
-Me encanta trabajar en equipo y soy muy competitivo en cualquier ámbito, siempre estoy en búsqueda de nuevos retos que completar y soy muy curioso, por lo que investigo absolutamente todo lo que me genere preguntas o dudas.
+¿Qué me motiva hoy?
 
-Soy muy detallista en lo que hago porque no me gusta que hayan errores o algo quede "mal" lo que significa que también soy perfeccionista, puedo pasar horas buscando en internet hasta encontrar la solución a mi problema.
+Lo que me motiva hoy son varios factores, algunos de ellos son: la posibilidad de conseguir la mejor versión de mi, lograr la estabilidad economica que tanto busco y poder devolverle un pedazito de felicidad a mis padres como ellos me la dieron a mi desde que tengo conciencia, comprar mi primera PC *pst... esta definitivamente es mi mayor motivación jejeje*, conseguír mi primer casa, empezar a hacer streams en internet, etc, etc, etc.
+Muchas son mis motivaciones y definitivamente no pienso parar hasta lograrlas todas y en medio de ese camino, definitivamente encontraré más motivaciones así que este camino no tiene fín, y vos, ¿¿qué motivaciones tenes??
 
-Siempre incito a que la gente se comunique, me gusta que se hablen las cosas.
+<h2><<<<< Más información sobre mi >>>>></h2>
 
-<h2>Principios y objetivos:</h2>
+¿Qué fue mi vida antes de hoy?
 
-Siempre busco un ambiente sano en donde se puede ser uno mismo o autentico ya que considero que uno de mis principios más importantes es la comunicación con tu entorno y no acepto algo distinto a ello, me interesa mucho que las personas sean empáticas, lo mismo aplica para las empresas.
+Fui Capitán de un equipo de handball más de 7 años cuando tenía entre 10 y 17 años, he sido jugador profesional de league of legends compitiendo a gran escala, he trabajado en sectores de carpinteria, metalurgica, call center, correo, logística y sectores públicos.
+en 2022 terminé el secundario bachiller y luego me emocioné mucho por la industria tecnológica así que decidí que el primer paso iba a ser el desarrollo web, por lo que me recibí como fuil stack con EGG COOPERATION y a día de hoy sigo auto capacitandome todos los días utilizando internet.
+Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.
 
-Un entorno en donde exista la confianza, es un entorno en donde se puede conseguir absolutamente cualquier sueño.
-
-Me interesa mucho un lugar en donde realmente se pueda debatir ya que soy muy innovador y siempre busco giros de tuerca en donde quizás no hagan falta, buscando nuevas soluciones y prácticas y lo que necesito es un equipo en el que pueda hablar al respecto para tener distintos puntos de vista y llegar a un acuerdo mutuo, odio los entornos en donde tenga miedo a preguntar algo porque la respuesta sea algo similar a "es tu trabajo" o "ya deberías saberlo", etc.
-
-Llegado este punto, agradezco su tiempo y les invito a ver mi portafolio y CV sin mencionar los proyectos en los que trabajé o estoy trabajando ^-^ </p>
+Llegado este punto, te invito a conectar conmigo, mirar mi CV y pegarle un vistazo a mi portafolio </p>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
