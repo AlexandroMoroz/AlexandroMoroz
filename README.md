@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.gif" width="200"/>
-  <h2>Hola! bienvenido a mi perfil</h2>
+  <h1>BIENVENIDO A MI PERFIL</h1>
   <h3> Full stack web developer - Java </h3>
   <p><h2>SOBRE MI</h2>
 
