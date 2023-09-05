@@ -7,7 +7,7 @@
 Hola 🖐, soy Alex!
 Desarrollador web, Gamer y beatboxer 👾
 
-1... 2... 3... Dale al START!
+3... 2... 1... Dale al START!
 
 <h2> <<<<< VIVIR A LO BETA >>>>> </h2>
 
