@@ -33,7 +33,7 @@ En 2022 terminé el bachillerato y me emocioné mucho por la industria tecnológ
 
 Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.</p>
 
-<h5>Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi portafolio! ^-^</h5>
+<p style="font-size: 24px; font-weight: bold;">Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi portafolio! ^-^</p>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
