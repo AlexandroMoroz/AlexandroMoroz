@@ -31,9 +31,9 @@ Fui capitán de un equipo de handball durante más de 7 años, desde los 10 hast
 
 En 2022 terminé el bachillerato y me emocioné mucho por la industria tecnológica, así que decidí que el primer paso sería el desarrollo web. Me recibí como full stack con EGG COOPERATION y hasta el día de hoy sigo auto capacitándome todos los días utilizando internet.
 
-Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.
+Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.</p>
 
-Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi portafolio! ^-^</p>
+<h5>Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi portafolio! ^-^</h5>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
