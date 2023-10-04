@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.gif" width="200"/>
   <h1>BIENVENIDO A MI PERFIL</h1>
   <h3> Full Stack Web Developer - Java </h3>
-  <p><h2>¿QUIËN SOY?</h2>
+  <p><h2>¿QUIÉN SOY?</h2>
 
 Hola 🖐, soy Alex!
 Desarrollador web, Gamer y beatboxer 👾
@@ -55,7 +55,7 @@ Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi porta
 | --- | --- |
 | ![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexandroMoroz&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Alex top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroMoroz&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-<h2 id="sobreMi" align="center">Más sobre mi: </h2> 
+<h2 id="sobreMi" align="center">Portafolio y CV</h2> 
 <div align="center">  
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
@@ -67,7 +67,7 @@ Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi porta
     <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
   </a>
   </div>
-<h2 id="contactame" align="center">Contáctame: </h2>
+<h2 id="contactame" align="center">Contáctame</h2>
   <div align="center">
 
   <a href="mailto:AlexandroMoroz5@gmail.com">
