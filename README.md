@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.gif" width="200"/>
   <h1>BIENVENIDO A MI PERFIL</h1>
-  <h3> Full stack web developer - Java </h3>
-  <p><h2>SOBRE MI</h2>
+  <h3> Full Stack Web Developer - Java </h3>
+  <p><h2>¿QUIËN SOY?</h2>
 
 Hola 🖐, soy Alex!
 Desarrollador web, Gamer y beatboxer 👾
@@ -23,15 +23,17 @@ Me apasiona la tecnología, la inteligencia artificial, los videojuegos. Soy jug
 Lo que me motiva hoy son varios factores, algunos de ellos son: la posibilidad de conseguir la mejor versión de mi, lograr la estabilidad economica que tanto busco y poder devolverle un pedazito de felicidad a mis padres como ellos me la dieron a mi desde que tengo conciencia, comprar mi primera PC *pst... esta definitivamente es mi mayor motivación jejeje*, conseguír mi primer casa, empezar a hacer streams en internet, etc, etc, etc.
 Muchas son mis motivaciones y definitivamente no pienso parar hasta lograrlas todas y en medio de ese camino, definitivamente encontraré más motivaciones así que este camino no tiene fín, y vos, ¿¿qué motivaciones tenes??
 
-<h2><<<<< MÁS INFORMACIÖN SOBRE MI >>>>></h2>
+<h2><<<<< MÁS INFORMACIÓN SOBRE MI >>>>></h2>
 
-¿Qué fue mi vida antes de hoy?
+¿Qué fue de mi vida antes de hoy?
 
-Fui Capitán de un equipo de handball más de 7 años cuando tenía entre 10 y 17 años, he sido jugador profesional de league of legends compitiendo a gran escala, he trabajado en sectores de carpinteria, metalurgica, call center, correo, logística y sectores públicos.
-en 2022 terminé el secundario bachiller y luego me emocioné mucho por la industria tecnológica así que decidí que el primer paso iba a ser el desarrollo web, por lo que me recibí como fuil stack con EGG COOPERATION y a día de hoy sigo auto capacitandome todos los días utilizando internet.
+Fui capitán de un equipo de handball durante más de 7 años, desde los 10 hasta los 17 años. También he sido jugador profesional de League of Legends, compitiendo a gran escala. Además, he trabajado en sectores de carpintería, metalurgia, call center, correo, logística y en sectores públicos.
+
+En 2022 terminé el bachillerato y me emocioné mucho por la industria tecnológica, así que decidí que el primer paso sería el desarrollo web. Me recibí como full stack con EGG COOPERATION y hasta el día de hoy sigo auto capacitándome todos los días utilizando internet.
+
 Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.
 
-Llegado este punto, te invito a conectar conmigo, mirar mi CV y pegarle un vistazo a mi portafolio! ^-^</p>
+Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi portafolio! ^-^</p>
   </div>
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
@@ -43,8 +45,8 @@ Llegado este punto, te invito a conectar conmigo, mirar mi CV y pegarle un vista
   <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Icon" width="100"/>
   <img src="https://img.icons8.com/officel/100/000000/react.png" alt="React Icon" width="100"/>
   <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="MySQL Icon" width="100"/>
- <p>JUnit 5</p>
-  <span>Mockito</span> 
+  <img src="https://img.icons8.com/color/100/000000/angularjs.png" alt="Angular Icon" width="100"/>
+  <img src="https://img.icons8.com/color/100/000000/typescript.png" alt="TypeScript Icon" width="100"/>
 </div>
 
 <h3 align="center">Mis estadisticas:</h3>
