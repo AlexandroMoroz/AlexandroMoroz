@@ -9,14 +9,14 @@ Desarrollador web, Gamer y beatboxer 👾
 
 3... 2... 1... Dale al START!
 
-<h2><<<<< VIVIR A LO BETA >>>>></h2>
+<h2>   <<<<< VIVIR A LO BETA >>>>></h2>
   
 ¿Qué me apasiona y a dónde voy?
 
 Me apasiona la tecnología, la inteligencia artificial, los videojuegos. Soy jugador profesional de League of Legends. No me gusta quedarme quieto, en la actualidad estoy trabajando en un proyecto con un amigo, siempre digo que tenemos que estar en movimiento, y vivir en BETA, como el software, actualizarnos para añadir características y ser siempre la mejor versión
 -obviamente, podemos tener un update que rompa el sistema, pero bueno, en esos casos hay que actualizar rápido para corregirlo- 😅
 
-<h2><<<<< MOTIVACIONES >>>>></h2>
+<h2>  <<<<< MOTIVACIONES >>>>></h2>
 
 ¿Qué me motiva hoy?
 
