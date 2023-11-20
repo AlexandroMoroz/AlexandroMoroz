@@ -60,10 +60,10 @@ Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de m
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1M2fHKhsNYJML2RILtPTPbFLfWzTNXOJv/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1-teutXmd88IKw0XHR1ljcCDtHtvVIK-z/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1JdMH-hxoUJTCY3Irs0b5oLxSIxRuQvcp/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1vlRZz4CgA_gk-M5sbkM8g3Q_VeUY4AVS/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
   </a>
   </div>
