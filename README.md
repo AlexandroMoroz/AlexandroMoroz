@@ -5,36 +5,31 @@
   <p><h2>¿QUIÉN SOY?</h2>
 
 Hola 🖐, soy Alex!
-Desarrollador web, Gamer y beatboxer 👾
+Desarrollador web & Gamer 👾
 
 3... 2... 1... Dale al START!
-
-<h2>   <<<<< VIVIR A LO BETA >>>>></h2>
-  
-¿Qué me apasiona y a dónde voy?
-
-Me apasiona la tecnología, la inteligencia artificial, los videojuegos. Soy jugador profesional de League of Legends. No me gusta quedarme quieto, en la actualidad estoy trabajando en un proyecto con un amigo, siempre digo que tenemos que estar en movimiento, y vivir en BETA, como el software, actualizarnos para añadir características y ser siempre la mejor versión
--obviamente, podemos tener un update que rompa el sistema, pero bueno, en esos casos hay que actualizar rápido para corregirlo- 😅
 
 <h2>  <<<<< MOTIVACIONES >>>>></h2>
 
 ¿Qué me motiva hoy?
 
-Lo que me motiva hoy son varios factores, algunos de ellos son: la posibilidad de conseguir la mejor versión de mi, lograr la estabilidad economica que tanto busco y poder devolverle un pedazito de felicidad a mis padres como ellos me la dieron a mi desde que tengo conciencia, comprar mi primera PC *pst... esta definitivamente es mi mayor motivación jejeje*, conseguír mi primer casa, empezar a hacer streams en internet, etc, etc, etc.
-Muchas son mis motivaciones y definitivamente no pienso parar hasta lograrlas todas y en medio de ese camino, definitivamente encontraré más motivaciones así que este camino no tiene fín, y vos, ¿¿qué motivaciones tenes??
+Lo que me motiva hoy son varios factores, algunos de ellos son: la posibilidad de conseguir la mejor versión de mi, lograr la estabilidad economica que tanto busco y poder devolverle un pedazito de felicidad a mis padres como ellos me la dieron a mi desde que tengo conciencia, comprar mi primera PC *esta definitivamente es mi mayor motivación*, conseguír mi primer casa, empezar a hacer streams en internet, etc, etc, etc.
+Muchas son mis motivaciones y definitivamente no pienso parar hasta lograrlas todas y en medio de ese camino, definitivamente encontraré más motivaciones así que este camino no tiene fín.
 
-<h2><<<<< MÁS INFORMACIÓN SOBRE MI >>>>></h2>
+<h2><<<<< UN POCO SOBRE MI >>>>></h2>
 
 ¿Qué fue de mi vida antes de hoy?
 
-Fui capitán de un equipo de handball durante más de 7 años, desde los 10 hasta los 17 años. He trabajado en sectores de carpintería, metalurgia, call center, correo, logística y en sectores públicos.
+Estudié 7 años en un colegio técnico la rama de electromecánica y luego terminé en un bachiller con orientación en bellas artes.
 
-En 2022 terminé el bachillerato y me emocioné mucho por la industria tecnológica, así que decidí que el primer paso sería el desarrollo web. Me recibí como full stack con EGG COOPERATION y hasta el día de hoy sigo auto capacitándome todos los días utilizando internet.
+Comencé en la programación meses después de terminar mis estudios secundarios, estudié en el curso de Argentina programa 4.0 y en un curso fullstack con la empresa EGG COOPERATION, a día de hoy tengo más de 1 año estudiando al respecto.
 
-Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de mi vida que he pasado, siempre fui el típico personaje que tenía miles de ideas y no sabía callarse o conformarse con una cosa y creo que esto también deriva por mi perfeccionismo y filosofía de vida, yo creo que todo puede ser mejor siempre, lo que hoy considero perfecto, mañana puede ser mejor.</p>
+A lo largo de mi vida trabajé en muchos sectores, tales como metalúrgica, carpintería, call centers, correos, logísticas, etc. Gracias a esta experiencia, hoy en día pienso de una forma completamente distinta.
 
-<h4>Llegado este punto, te invito a conectar conmigo y pegarle un vistazo a mi portafolio! ^-^</h4>
+Soy una persona muy tranquila y me encanta trabajar en equipos, soy muy dedicado a lo que hago y me es muy difícil dejar a la mitad un problema, generalmente no descanso hasta encontrar la solución.</p>
+
   </div>
+  
 <h2 id="tecnologias" align="center">Tecnologías: </h2>
 <div align="center">
   <img src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" width="100"/>
@@ -55,15 +50,15 @@ Soy una persona proactiva y que no sabe quedarse quieta, en todas las cosas de m
 | --- | --- |
 | ![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexandroMoroz&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Alex top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroMoroz&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-<h2 id="sobreMi" align="center">Portafolio y CV</h2> 
+<h2 id="sobreMi" align="center">Portafolio y Curriculum Vitae</h2> 
 <div align="center">  
   <a href="http://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://drive.google.com/file/d/18isRMY8GbzNCnkqI3xwtGEbXznHyQ4HA/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1vb19AlVpwVLAyAYHS3PiPUn_WEFavoeK/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1ib60YeVzsTLX8JiILXY6iAJvfJX4dg6F/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1IuVHGDV7WKv5TXzxv7W5Pz7VORIpPPgk/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
   </a>
   </div>
