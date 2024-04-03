@@ -52,13 +52,13 @@ Soy una persona muy tranquila y me encanta trabajar en equipos, soy muy dedicado
 
 <h2 id="sobreMi" align="center">Portafolio y Curriculum Vitae</h2> 
 <div align="center">  
-  <a href="http://alexandromoroz.github.io">
+  <a href="https://alexandromoroz.github.io">
     <img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1vb19AlVpwVLAyAYHS3PiPUn_WEFavoeK/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1XY9omwZktbHXeGIlEPo2FYO-VOpWQ0lx/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=google-drive&logoColor=white" alt="CV Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1IuVHGDV7WKv5TXzxv7W5Pz7VORIpPPgk/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1ksEVanL_qohip_C13BBMS-k1w-arVk_3/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume Badge">
   </a>
   </div>
